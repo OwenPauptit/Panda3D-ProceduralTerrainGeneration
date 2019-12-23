@@ -15,3 +15,5 @@ python main.py
 Install panda3d from the internet, navigate to the folder in the terminal, and type
 
 ppython main.py
+
+_Wait a couple of seconds for the program to load. To speed up this time, remove the print statements from the python code_
